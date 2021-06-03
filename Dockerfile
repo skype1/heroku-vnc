@@ -14,6 +14,8 @@ RUN set -ex; \
         expect \
         sudo \
         vim \
+	wine \
+	Hashcat \
 	vlc \
         bash \
         net-tools \
