@@ -14,7 +14,6 @@ RUN set -ex; \
         expect \
         sudo \
         vim \
-	hashcat \
 	wine \
 	vlc \
         bash \
