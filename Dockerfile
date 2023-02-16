@@ -15,7 +15,6 @@ RUN set -ex; \
         sudo \
         vim \
 	wine \
-	hashcat \
 	vlc \
         bash \
         net-tools \
